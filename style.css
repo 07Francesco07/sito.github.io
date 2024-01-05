@@ -1,0 +1,56 @@
+.title {
+    background-image: url("pattern.webp");
+    font-family: Helvetica;
+    font-size:100px;
+    color: khaki;
+    text-align: center;
+    margin: 5px auto;
+}
+
+.brushes #first{
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+.brushes p{
+    display: inline;
+    font-family:Helvetica;
+    font-weight:bold;
+}
+.brushes #color{
+    color:blue;
+}
+
+.frames #first{
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    background-color: lightcoral;
+}
+.frames p{
+    display: inline;
+    font-family:Helvetica;
+    font-weight:bold;
+}
+.frames #color{
+    color:blue;
+}
+
+.paint #first{
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    background-color: skyblue;
+}
+.paint p{
+    display: inline;
+    font-family:Helvetica;
+    font-weight:bold;
+}
+.paint #color{
+    color:blue;
+}
